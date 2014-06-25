@@ -1,0 +1,21 @@
+html,
+body {
+	margin: 20;
+	padding: 20;
+}
+
+body {
+	font: 14px Arial, sans-serif;
+	line-height: 1.4em;
+	background: #C6DEFF;
+	color: #4d4d4d;
+	width: 550px;
+	margin: 0 auto;
+	
+}
+
+label {
+
+	font:18px Arial, sans-serif;
+
+}
